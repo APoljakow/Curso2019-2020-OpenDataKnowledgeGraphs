@@ -1,7 +1,8 @@
 Pedestrian Flow project
 ==================
 
-The demo of our project can be seen in the following [DataStudio](https://datastudio.google.com/reporting/b3178807-28f6-4602-9ec9-cbe428dd9077/page/dXz3)
+The demo of our project can be seen in the following [DataStudio](https://datastudio.google.com/reporting/b3178807-28f6-4602-9ec9-cbe428dd9077/page/dXz3) [updated](https://datastudio.google.com/datasources/81cae223-3f17-4986-a5fe-3e6e33963b35)
+
 
 The virtuoso endpoint which provides the rdf pedestrian dataset is the following:
 [PedestrianDataSet](http://vocab.linkeddata.es/sparql/pedestrians/)
